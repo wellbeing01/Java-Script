@@ -73,3 +73,26 @@ console.log(instructor);
 // }
 
 [{}, {}, {}];
+
+
+const webdevp = {
+  coursename: "js tutorial",
+  price: "234234",
+  webuser: "Arif"
+}
+const {webuser} = webdevp
+console.log(webuser);
+
+// API is a type of object 
+
+// {
+//   "name": "Arif"
+//   "Coursename": "js Tutorial"
+//   "price": "Free"
+// }
+
+[
+{},
+{},
+
+]
